@@ -1,27 +1,4 @@
-# IMPORTANT NOTE 1:
-For each lab assignment, **you must include and sign (by writing your name and student id number) the following Pledge of Honor statement at the beginning of your main method source code file. After including this statement, make sure that you do the commit and push operation on GitHub. Otherwise, your lab solution will not be graded.**
-
-```
-/* *********** Pledge of Honor ************************************************ *
-
-I hereby certify that I have completed this lab assignment on my own
-without any help from anyone else. I understand that the only sources of authorized
-information in this lab assignment are (1) the course textbook, (2) the
-materials posted at the course website and (3) any study notes handwritten by myself.
-I have not used, accessed or received any information from any other unauthorized
-source in taking this lab assignment. The effort in the assignment thus belongs
-completely to me.
-READ AND SIGN BY WRITING YOUR NAME SURNAME AND STUDENT ID
-SIGNATURE: <Name Surname, Student id>
-********************************************************************************/
-```
-## IMPORTANT NOTE 2: After you complete the tasks, do not forget to commit your changes and push them to your repository on Github.
-
-## IMPORTANT NOTE 3: This README.md file only contains the instructions for PRELAB. You will also have INLAB questions.
-
-INLAB QUESTIONS WILL BE ANNOUNCED AT COURSE WEBSITE AT THE START OF EACH LAB: [https://sites.google.com/a/ku.edu.tr/comp132/programming-labs](https://sites.google.com/a/ku.edu.tr/comp132/programming-labs)
-
-# Lab-7 Prelab: P2P Payment System on a Blockchain
+# P2P Payment System on a Blockchain
 
 In this programming lab, you will be mainly practicing with **Exception Handling concepts** by implementing an application that simulates a **Peer-to-Peer (P2P) payment system on a blockchain**. The payment system only involves sending and receiving money from one Wallet to another. Each sending/receiving operation is called a “Transfer”.
 
